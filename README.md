@@ -102,7 +102,7 @@ Learn how to handle exceptions in Kotlin:
 Feel free to explore the code examples provided in this repository. You can clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/qedir314/Kotlin-Basic-Learning-BTK
+git clone https://github.com/qedir314/Kotlin-Basic-Lessons.git
 ```
 ## Contributing
 If you would like to contribute to this repository, please feel free to submit a pull request. Contributions are welcome!
