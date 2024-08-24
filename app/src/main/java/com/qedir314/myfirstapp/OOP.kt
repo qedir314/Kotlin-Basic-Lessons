@@ -45,7 +45,7 @@ fun main() {
     // Abstraction
     // Abstract class, interface
 
-    // val human = Human()     // cannot create object from abstract class
+    //  val human = Human()     // cannot create object from abstract class
 
 
 }
